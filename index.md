@@ -1,4 +1,13 @@
-### Uwa's lighting mods for MSFS
+## Uwa's lighting mods for MSFS
+
+Latest release: TBM930 lighting mod v1
+Known issue: The spotlight, landing light, and stobe changes will affect ALL current airplanes - but not overwrite any of their files! So far, people prefer those global changes but the next version will make it so that any changes will only apply to the aircaft for which the mod is for. This will allow each airplane to have different lighting behavior (e.g. slow pulsing beacon vs. quick flashing beacon)
+
+Next in linw:
+Cessna Citiation 4 (in progress)
+King Air
+Cessna Caravan
+and then we'll see...
 
 
 You can use the [editor on GitHub](https://github.com/Uwajimaya/FS2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
