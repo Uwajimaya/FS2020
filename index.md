@@ -22,8 +22,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+[latest release] (https://github.com/Uwajimaya/FS2020/raw/2062ff8823843d0cc3085f4d61c23b125d46754b/TMB930%20Lighting%20update.zip).
 
-[Link](https://github.com/Uwajimaya/FS2020/raw/2062ff8823843d0cc3085f4d61c23b125d46754b/TMB930%20Lighting%20update.zip) and ![Image](src)
+[Link]() and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
