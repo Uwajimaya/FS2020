@@ -11,6 +11,8 @@ Next in line:
 - Cessna Caravan
 - and then we'll see...
 
+For questions or comments, post or message me on https://forums.flightsimulator.com/.
+
 
 You can use the [editor on GitHub](https://github.com/Uwajimaya/FS2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
