@@ -11,6 +11,6 @@ Next in line:
 - Cessna Caravan
 - and then we'll see...
 
-For questions or comments, post or message me on https://forums.flightsimulator.com/.
+For questions or comments, post or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
 Uwajimaya
