@@ -1,4 +1,4 @@
-## Uwa's Lighting modifications for MSFS default aircraft.
+# Uwa's Lighting mods for MSFS.
 
 You can use the [editor on GitHub](https://github.com/Uwajimaya/FS2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
