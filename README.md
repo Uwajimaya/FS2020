@@ -1,5 +1,4 @@
-# FS2020
-Lighting modifications for MSFS default aircraft.
+# Lighting modifications for MSFS default aircraft.
 
 To install:
 
