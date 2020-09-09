@@ -6,7 +6,7 @@ Known issue: The spotlight, landing light, and strobe changes will apply to ALL 
 
 
 Next in line:
-- Cessna Citiation 4 (in progress)
+- Cessna Citation 4 (in progress)
 - King Air
 - Cessna Caravan
 - and then we'll see...
