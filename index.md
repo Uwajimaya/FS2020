@@ -9,9 +9,9 @@ Sept. 9: [CJ4 lightin mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/U
 
 
 Next in line:
-- Cessna Citation 4 (in progress)
 - King Air
 - Cessna Caravan
+- Cessna 150
 - and then we'll see...
 
 For questions or comments, post or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
