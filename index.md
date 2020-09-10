@@ -1,6 +1,7 @@
 ## Uwa's lighting mods for MSFS
 
-Latest releases
+Latest releases:
+
 Sept. 9: [TBM930 lighting mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20TMB930v1.1.zip)
 - lighting fx files no longer apply to all aircaft - only to the TBM
 
