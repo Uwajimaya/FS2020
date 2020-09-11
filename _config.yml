@@ -27,3 +27,4 @@ s.setAttribute('data-timestamp', +new Date());
                             
 
 {% endif %}
+<script id="dsq-count-scr" src="//EXAMPLE.disqus.com/count.js" async></script>
