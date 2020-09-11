@@ -20,4 +20,4 @@ For questions or comments, post or message me on [https://forums.flightsimulator
 
 Uwajimaya
 
-comments: true
+
