@@ -19,3 +19,5 @@ Next in line:
 For questions or comments, post or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
 Uwajimaya
+
+comments: true
