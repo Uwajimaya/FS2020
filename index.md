@@ -11,7 +11,8 @@ Sept. 9: [CJ4 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa
 
 
 Next in line:
-- King Air
+- King Air (in progress)
+- [Beechcraft G36 Bonanze](https://github.com/TheFrett/msfs_g36_project)
 - Cessna Caravan
 - Cessna 150
 - and then we'll see...
