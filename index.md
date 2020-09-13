@@ -5,6 +5,7 @@ The lighting effects for many default aircraft are set too low partially because
 Latest release:
 <br>
 Sept. 12: [KingAir 350 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20KingAir350.zip)
+![KingAir Cockpit](https://github.com/Uwajimaya/FS2020/blob/gh-pages/images/KingAir350_1.jpg)
 
 Previous releases:
 <br>
