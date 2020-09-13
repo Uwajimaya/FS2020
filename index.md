@@ -8,8 +8,7 @@ Sept. 12:[KingAir 350 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/ma
 
 Previous releases:
 
-Sept. 9: [TBM930 light mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20TMB930v1.1.zip)
-
+Sept. 9: [TBM930 light mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20TMB930v1.1.zip)<br>
 Sept. 9: [CJ4 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20CJ4.zip)
 
 
