@@ -20,7 +20,7 @@ Next in line:
 - Cessna 150
 - and then we'll see...
 
-For questions or comments, post or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
+Post your comments or questions below, or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
 Uwajimaya
 
