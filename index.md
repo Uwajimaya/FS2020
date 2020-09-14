@@ -5,12 +5,6 @@ Latest release: Sept. 12: [KingAir 350 light mod v1.0](https://github.com/Uwajim
 ![KingAir External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_2.jpg)
 ![KingAir Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_1.jpg)
 
-<style type="text/css">
-  p {
-    border: 1px solid black;
-  }
-</style>
-test
 
 Previous releases:
 <br>
@@ -19,6 +13,7 @@ Sept. 9: [CJ4 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa
 
 
 Next in line:
+<br>
 - Lighting updates for Beechcraft G36 - standlone and [G36 Bonanza project](https://github.com/TheFrett/msfs_g36_project) (in progress)
 - Cessna Caravan
 - Diamond DA40 & DA62
