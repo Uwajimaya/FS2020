@@ -15,8 +15,9 @@ Sept. 9: [CJ4 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa
 
 
 Next in line:
-- Lighting updates for [Beechcraft G36 Bonanza project](https://github.com/TheFrett/msfs_g36_project) (not yet started)
+- Lighting updates for Beechcraft G36 - standlone and [G36 Bonanza project](https://github.com/TheFrett/msfs_g36_project) (in progress)
 - Cessna Caravan
+- Diamond DA40 & DA62
 - Cessna 150
 - and then we'll see...
 
