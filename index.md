@@ -7,9 +7,9 @@ For an an updated G36 flight model and other enhancements, including my lighting
 ![G36 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Bonanza G36_1.jpg)
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Bonanza G36_2.jpg)
 
-
+<br>
 Previous releases:
-<br><br>
+<br>
 Sept. 14: [KingAir 350 light mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20KingAir350v1.1.zip)
 <br>
 ![KingAir External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_2.jpg)
