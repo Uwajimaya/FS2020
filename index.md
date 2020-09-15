@@ -1,7 +1,6 @@
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
 **Latest release:** 
-<br>
 Sept. 15: [Bonanza G36 light mod v1 (standalone)](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20Bonanza%20G36.zip).
 <br>
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
