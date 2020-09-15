@@ -7,11 +7,10 @@ For an an updated G36 flight model and other enhancements, including my lighting
 <br><br>
 ![G36 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Bonanza G36_1.jpg)
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Bonanza G36_2.jpg)
-
+<br>
 Sept. 15: [C208 Grand Caravan mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20C208%20Grand%20Caravan.zip)
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_1.jpg)
 ![C208 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_2.jpg)
-
 
 <br>
 **Previous releases:**
