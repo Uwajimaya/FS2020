@@ -34,7 +34,7 @@ Sept. 9: [CJ4 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa
 
 Next in line:
 <br>
-- Diamond DA40 & DA62 (not started yet)
+- Diamond DA40 & DA62 (in progress)
 - Cessna 150
 - Cessna 172s
 - and then we'll see...
