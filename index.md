@@ -1,7 +1,7 @@
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
-# If you downloaded any of my mods before Sept. 16 (new MSFS patch), please delete your existing Uwa light mod" folder(s) download/install the mods again. 
-# I am working on combining all current and future releases into one package.
+If you downloaded any of my mods before Sept. 16 (new MSFS patch), please delete your existing Uwa light mod" folder(s) download/install the mods again. 
+I am working on combining all current and future releases into one package.
 
 **Latest release:** 
 All files compatible with patch 1.8.3.0!
@@ -11,6 +11,10 @@ Sept. 18: [Diamond DG 40 NG mod v1.0](https://github.com/Uwajimaya/FS2020/raw/ma
 ![D40External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
 ![CD40 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
 
+Sept. 18: [Diamond DG 62 mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA62.zip)
+<br>
+![D40External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
+![CD40 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DDA62_1.jpg)
 
 
 <br>
