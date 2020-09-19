@@ -14,7 +14,7 @@ Sept. 18: [Diamond DG 40 NG mod v1.0](https://github.com/Uwajimaya/FS2020/raw/ma
 Sept. 18: [Diamond DG 62 mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA62.zip)
 <br>
 ![D62 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
-![D62 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
+![D62 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_2.jpg)
 
 
 <br>
