@@ -8,13 +8,13 @@ All files compatible with patch 1.8.3.0!
 
 Sept. 18: [Diamond DG 40 NG mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA40NG.zip)
 <br>
-![D40External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
-![CD40 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
+![D40NG External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
+![D40NG Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
 
 Sept. 18: [Diamond DG 62 mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA62.zip)
 <br>
-![D40External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
-![CD40 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DDA62_1.jpg)
+![D62 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
+![D62 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DDA62_1.jpg)
 
 
 <br>
