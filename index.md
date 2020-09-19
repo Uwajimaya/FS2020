@@ -1,16 +1,26 @@
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
-## The latest patch changed some file requirements for mod makers. No mods will show up without those changes!
-## All light mods have been updated - delete any "Uwa light mod" folders and download/install the new files below. 
+# If you downloaded any of my mods before Sept. 16 (new MSFS patch), please delete your existing Uwa light mod" folder(s) download/install the mods again. 
+# I am working on combinign all current and future releases into one package.
 
 **Latest release:** 
+All files compatible with patch 1.8.3.0!
 
-Sept. 16: All files compatible with patch 1.8.3.0!
+Sept. 18: [Diamond DG 40 NG mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA40NG.zip)
+<br>
+![D40External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
+![CD40 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
+
+
+
+<br>
+**Previous releases:**
 
 Sept. 15: [Bonanza G36 light mod v1 (standalone)](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20Bonanza%20G36.zip).
 <br>
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
 <br><br>
+
 ![G36 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_1.jpg)
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_2.jpg)
 <br>
@@ -20,8 +30,6 @@ Sept. 15: [C208 Grand Caravan mod v1.0](https://github.com/Uwajimaya/FS2020/raw/
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_1.jpg)
 ![C208 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_2.jpg)
 
-<br>
-**Previous releases:**
 <br>
 Sept. 14: [KingAir 350 light mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20KingAir350v1.1.zip)
 <br>
