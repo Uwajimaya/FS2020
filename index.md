@@ -1,11 +1,12 @@
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
-
+All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
+<br>
 [**Download the latest Uwa Light Mod Pack**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.0.zip) 
 
 
 History:
-Sept. 20: Cessna 172 (G1000) with LED effects - and combining all current/future releases into a single package for easier download!
+Sept. 20: Cessna 172 (G1000) with LED effects.
 <br> 
 ![C172(G1000) External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_1.jpg)
 ![C172(G1000) Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_2.jpg)
@@ -17,7 +18,6 @@ Sept. 18: Diamond DG 40 NG & DG62. All files compatible with patch 1.8.3.0!
 ![D40NG External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
 ![D40NG Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
 
-<br>
 ![D62 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
 ![D62 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_2.jpg)
 
