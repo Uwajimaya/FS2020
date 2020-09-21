@@ -5,7 +5,8 @@ All updated aircraft files now available in one single package for easier downlo
 [**Download the latest Uwa Light Mod Pack**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.0.zip) 
 
 
-History:
+**History**
+<br>
 Sept. 20: Cessna 172 (G1000) with LED effects.
 <br> 
 ![C172(G1000) External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_1.jpg)
