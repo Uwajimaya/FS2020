@@ -26,7 +26,6 @@ Sept. 18: Diamond DG 40 NG & DG62. All files compatible with patch 1.8.3.0!
 Sept. 15: Bonanza G36 light mod v1 (standalone)
 <br>
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
-<br>
 
 ![G36 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_1.jpg)
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_2.jpg)
