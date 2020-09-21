@@ -1,7 +1,5 @@
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
-If you downloaded any of my mods before Sept. 16 (new MSFS patch), please delete your existing Uwa light mod" folder(s) download/install the mods again. 
-I am working on combining all current and future releases into one package.
 
 **Latest release:** 
 All files compatible with patch 1.8.3.0!
