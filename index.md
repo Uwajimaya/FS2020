@@ -1,24 +1,28 @@
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
-All files compatible with patch 1.8.3.0!
-**Latest release:** 
+
+[**Download the lates Uwa Light Mod Pack**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.0.zip) 
 
 
-Sept. 18: [Diamond DG 40 NG mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA40NG.zip)
+History:
+Sept. 20: Cessna 172 (G1000) with LED effects - and combining all current/future releases into a single package for easier download!
+Sept 18.:All files compatible with patch 1.8.3.0!
+<br> 
+
+
+
+
+Sept. 18: Diamond DG 40 NG & DG62
 <br>
 ![D40NG External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
 ![D40NG Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
 
-Sept. 18: [Diamond DG 62 mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20DA62.zip)
 <br>
 ![D62 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
 ![D62 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_2.jpg)
 
 
-<br>
-**Previous releases:**
-
-Sept. 15: [Bonanza G36 light mod v1 (standalone)](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20Bonanza%20G36.zip).
+Sept. 15: Bonanza G36 light mod v1 (standalone)
 <br>
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
 <br><br>
@@ -27,26 +31,25 @@ For an an updated G36 flight model and other enhancements, including my lighting
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_2.jpg)
 <br>
 
-Sept. 15: [C208 Grand Caravan mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20C208%20Grand%20Caravan.zip)
+Sept. 15: C208 Grand Caravan
 <br>
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_1.jpg)
 ![C208 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_2.jpg)
 
 <br>
-Sept. 14: [KingAir 350 light mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20KingAir350v1.1.zip)
+Sept. 14: KingAir 350 
 <br>
 ![KingAir External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_2.jpg)
 ![KingAir Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_1.jpg)
 
-Sept. 9: [TBM930 light mod v1.1](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20TMB930v1.1.zip)<br>
-Sept. 9: [CJ4 light mod v1.0](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20-%20CJ4.zip)
+Sept. 9: TBM 930 light mod v1.1
+Sept. 9: Cessna CJ4 Citation
 
 
 Next in line:
 <br>
-- Creating master package that includes all current (and future) releases in 1 package.
 - Cessna 150
-- Cessna 172s
+- A320
 - and then we'll see...
 
 Post your comments or questions below, or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
