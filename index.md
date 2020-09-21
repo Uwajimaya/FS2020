@@ -6,13 +6,13 @@ The lighting effects for many default aircraft are set too low partially because
 
 History:
 Sept. 20: Cessna 172 (G1000) with LED effects - and combining all current/future releases into a single package for easier download!
-Sept 18.:All files compatible with patch 1.8.3.0!
 <br> 
+![C172(G1000) External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_1.jpg)
+![C172(G1000) Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_2.jpg)
 
 
 
-
-Sept. 18: Diamond DG 40 NG & DG62
+Sept. 18: Diamond DG 40 NG & DG62. All files compatible with patch 1.8.3.0!
 <br>
 ![D40NG External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
 ![D40NG Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
@@ -25,7 +25,7 @@ Sept. 18: Diamond DG 40 NG & DG62
 Sept. 15: Bonanza G36 light mod v1 (standalone)
 <br>
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
-<br><br>
+<br>
 
 ![G36 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_1.jpg)
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_2.jpg)
@@ -42,8 +42,7 @@ Sept. 14: KingAir 350
 ![KingAir External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_2.jpg)
 ![KingAir Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_1.jpg)
 
-Sept. 9: TBM 930 light mod v1.1
-Sept. 9: Cessna CJ4 Citation
+Sept. 9: TBM 930 & Cessna CJ4 Citation
 
 
 Next in line:
