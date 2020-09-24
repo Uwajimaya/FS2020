@@ -1,4 +1,5 @@
-The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. My mods provide lighting effect files for each aircraft individually - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
+The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. In addition, the ability to add realistic glow/lens flare effects (e.g. Shockwave 3D Redux in FSX) is broken in MSFS. Asobo is reportedly working on a new lighting system. No ETA.
+<br>In the meantime, I am using the features that do exists to create customized lighting effects for each individual aircraft - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
