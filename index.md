@@ -31,8 +31,6 @@ For an an updated G36 flight model and other enhancements, including my lighting
 ![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_2.jpg)
 <br>
 
-Sept. 15: C208 Grand Caravan
-<br>
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_1.jpg)
 ![C208 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_2.jpg)
 
