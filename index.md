@@ -6,8 +6,8 @@ All updated aircraft files now available in one single package for easier downlo
 [**Download the latest Uwa Light Mod Pack (Sept. 23)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.01.zip) (C152, IconA5, C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
 
 
-**Aircraft Release Dates**
-br>
+**Aircraft Releases**
+<br>
 Sept. 23: Icon A5 with LED lights & Cessna C152.
 <br> 
 ![IconA5 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_1.jpg)
