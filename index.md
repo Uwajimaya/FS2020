@@ -3,12 +3,21 @@ The lighting effects for many default aircraft are set too low partially because
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-[**Download the latest Uwa Light Mod Pack**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.0.zip) (C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
+[**Download the latest Uwa Light Mod Pack (Sept. 23)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.01.zip) (C152, IconA5, C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
 
 
-**History**
+**Aircraft Release Dates**
+br>
+Sept. 23: Icon A5 with LED lights & Cessna C152.
+<br> 
+![IconA5 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_1.jpg)
+![IconA5 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_2.jpg)
+![Cessna 152 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C152_1.jpg)
+![Cessna 152 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C152_2.jpg)
+
+
 <br>
-Sept. 20: Cessna 172 (G1000) with LED effects.
+Sept. 20: Cessna 172 (G1000) with LED lights.
 <br> 
 ![C172(G1000) External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_1.jpg)
 ![C172(G1000) Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_2.jpg)
