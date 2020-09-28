@@ -1,12 +1,20 @@
-The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. In addition, the ability to add realistic glow/lens flare effects (e.g. Shockwave 3D Redux in FSX) is broken in MSFS. Asobo is reportedly working on a new lighting system. No ETA.
+The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. In addition, some of the lighting systems is broken/not implmented, Asobo is reportedly working on a new system. No ETA.
 <br>In the meantime, I am using the features that do exists to create customized lighting effects for each individual aircraft - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-[**Download the latest Uwa Light Mod Pack (Sept. 23)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.01.zip) (C152, IconA5, C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
+[**Download the latest Uwa Light Mod Pack (Sept. 23)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.02.zip) (A320, C152, IconA5, C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
 
 
 **Aircraft Releases**
+<br>
+Sept. 27: Lens flare effects! A320 (new mod) and C208 (updated)
+<br> 
+![A320 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_1.jpg)
+![A320 Internal](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_2.jpg)
+![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_3.jpg)
+
+
 <br>
 Sept. 23: Icon A5 with LED lights & Cessna C152.
 <br> 
