@@ -1,5 +1,5 @@
-*
-*FAQ**
+
+**FAQ**
 
 **Q**: I like the lights but prefer not to use the lens flare effects. What do I do?<br>
 **A**: Go to ...\Packages\Community\Uwa light mod pack (v.X)\Effects\ and delete the TEXTURE folder. Done. Unfortunately you'll have to do this again with every new version.
