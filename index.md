@@ -5,7 +5,7 @@ All updated aircraft files now available in one single package for easier downlo
 <br><br>
 * [**Download the latest Uwa Light Mod Pack (Sept. 29, compatible with patch 1.9.3.0)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.02.zip) (A320, C152, IconA5, C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
 <br>
-* [Read the FAQ (https://uwajimaya.github.io/FS2020/FAQ.html)] to learn more about custom options and avoiding conflicts with other mods
+* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases**
 <br>
