@@ -25,7 +25,7 @@ Volumetric landing lights enabled, external and internal view
 /*
 var disqus_config = function () {
 this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 1234567; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = '1234567'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
