@@ -1,3 +1,5 @@
+this.page.identifier = '1234567'
+
 The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. In addition, some of the lighting systems is broken/not implmented, Asobo is reportedly working on a new system. No ETA.
 <br>In the meantime, I am using the features that do exists to create customized lighting effects for each individual aircraft - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 
@@ -75,7 +77,7 @@ Uwajimaya
 /*
 var disqus_config = function () {
 this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 1234567; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = '1234567'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
