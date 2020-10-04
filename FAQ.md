@@ -1,11 +1,11 @@
 
 **FAQ**
 
-**Q**: I like the lights but prefer not to use the lens flare effects. What do I do?<br>
-**A**: Go to ...\Packages\Community\Uwa light mod pack (v1.03 or later)\Effects\ and delete the TEXTURE folder - that's it. Unfortunately you'll have to do this again every time you install a new version of my mod.
-
 **Q**: Can you create mods for any of the Premium/Deluxe edition aircraft?<br>
-**A**: Unfortunately not. The DA40-TDI, DV20, Baron G58, C152 Aerobat, C172 Classic, Boeing 787, Cirrus 22, Virus SW 121, Citation Longitude and Shock Ultra all have hidden & encrypted files. We have to wait and see if/when Asobo makes those files available.
+**A**: Unfortunately not. The DA40-TDI, DV20, Baron G58, C152 Aerobat, C172 Classic, Boeing 787, Cirrus 22, Virus SW 121, Citation Longitude and Shock Ultra all have hidden & encrypted files. We have to wait and see if/when Asobo makes those files available.  
+
+**Q**: I like the lights but prefer not to use the lens flare effects. What do I do?<br>
+**A**: Go to ...\Packages\Community\Uwa light mod pack (v1.03 or later)\Effects\ and delete the TEXTURE folder - that's it. Unfortunately you'll have to do this again every time you install a new version of my mod.  
 
 {% comment %}
 **Q**: How do I use your mod for some aircraft but not all of them? How do I avoid the lighting mod conflicting with another mod?<br>
