@@ -3,11 +3,18 @@ The lighting effects for many default aircraft are set too low partially because
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-* [**Download the latest Uwa Light Mod Pack (Oct 2, compatible with patch 1.9.3.0)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.03.zip) (A320, C152, IconA5, C172 (G1000), D40 & 62, Bonanza G36, C208, King Air 350, TBM 930, Citation CJ4)
+* [**Download the latest Uwa Light Mod Pack (Oct 4)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.04.zip)
 <br>
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases**
+<br>
+Oct. 4: X Cub, Cap 10, DR400
+![XCub External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/XCub_1.jpg)
+![Cap10 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Cap10_1.jpg)
+![DR400 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DR400_1.jpg)
+![DR400 Internal External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DR400_2.jpg)
+
 <br>
 Sept. 27: Lens flare effects! A320 (new mod) and C208 (updated)
 <br> 
@@ -46,18 +53,9 @@ Sept. 15: C208 & Bonanza G36
 <br>
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
 
-![G36 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_1.jpg)
-![G36 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/BonanzaG36_2.jpg)
-<br>
-
-![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_1.jpg)
-![C208 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_2.jpg)
-
 <br>
 Sept. 14: KingAir 350 
 <br>
-![KingAir External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_2.jpg)
-![KingAir Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/KingAir350_1.jpg)
 
 Sept. 9: TBM 930 & Cessna CJ4 Citation
 
