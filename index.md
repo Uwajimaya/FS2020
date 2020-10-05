@@ -8,8 +8,9 @@ All updated aircraft files now available in one single package for easier downlo
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases**
-<br>
+<br>  
 Oct. 4: X Cub, Cap 10, DR400
+<br>
 ![XCub External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/XCub_1.jpg)
 ![Cap10 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Cap10_1.jpg)
 ![DR400 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DR400_1.jpg)
