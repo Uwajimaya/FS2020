@@ -3,11 +3,19 @@ The lighting effects for many default aircraft are set too low partially because
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-* [**Download the latest Uwa Light Mod Pack (Oct 4)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.04.zip)
+* [**Download the latest Uwa Light Mod Pack (Oct 10)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.05.zip)
 <br>
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
-**Aircraft Releases**
+**Aircraft Releases:**  
+Oct. 10: Boeing 747-8, VL-3, Extra 330, Savage Cub
+<br>
+![B748 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/B748_1.jpg)
+![VL-3 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/JVL_1.jpg)
+![E330 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/E330_1.jpg)
+<br>
+
+
 <br>  
 Oct. 4: X Cub, Cap 10, DR400
 <br>
