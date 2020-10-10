@@ -10,7 +10,7 @@ All updated aircraft files now available in one single package for easier downlo
 **Aircraft Releases:**  
 Oct. 10: Boeing 747-8, VL-3, Extra 330, Savage Cub
 <br>
-![B748 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/B748_1.jpg)
+![B748 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/748_1.jpg)
 ![VL-3 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/JVL_1.jpg)
 ![E330 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/E330_1.jpg)
 <br>
