@@ -63,9 +63,7 @@ Sept. 15: C208 & Bonanza G36
 For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
 
 <br>
-Sept. 14: KingAir 350 
-<br>
-
+Sept. 14: KingAir 350    
 Sept. 9: TBM 930 & Cessna CJ4 Citation
 
 
