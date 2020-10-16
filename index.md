@@ -18,9 +18,7 @@ Oct. 10: Boeing 747-8, VL-3, Extra 330, Savage Cub
 ![B748 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/748_1.jpg)
 ![VL-3 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/JVL_1.jpg)
 ![E330 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/E330_1.jpg)
-<br>
-
-
+   
 <br>  
 Oct. 4: X Cub, Cap 10, DR400
 <br>
