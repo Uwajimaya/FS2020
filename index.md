@@ -9,6 +9,9 @@ All updated aircraft files now available in one single package for easier downlo
 
 **Aircraft Releases:**  
 Oct. 15: Dedicated volumetric taxi and landing lights for TBM, King Air, C208 and CJ4. You can see them in fog and clouds! 
+<br>
+![C208 lightl](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_light.jpg)
+<br>
 
 Oct. 10: Boeing 747-8, VL-3, Extra 330, Savage Cub
 <br>
