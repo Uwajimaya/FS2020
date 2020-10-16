@@ -8,6 +8,8 @@ All updated aircraft files now available in one single package for easier downlo
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases:**  
+Oct. 15: Dedicated volumetric taxi and landing lights for TBM, King Air, C208 and CJ4. You can see them in fog and clouds! 
+
 Oct. 10: Boeing 747-8, VL-3, Extra 330, Savage Cub
 <br>
 ![B748 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/748_1.jpg)
@@ -51,12 +53,6 @@ Sept. 20: Cessna 172 (G1000) with LED lights.
 
 Sept. 18: Diamond DG 40 NG & DG62. All files compatible with patch 1.8.3.0!
 <br>
-![D40NG External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG1.jpg)
-![D40NG Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA40_NG2.jpg)
-
-![D62 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_1.jpg)
-![D62 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DA62_2.jpg)
-
 
 Sept. 15: C208 & Bonanza G36
 <br>
