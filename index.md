@@ -9,6 +9,7 @@ All updated aircraft files now available in one single package for easier downlo
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases:** 
+<br>
 Nov. 10:Compatible with Update 5/Patch 1.10.11.0. Added dedicated volumetric taxi and landing lights to default A320 (not compatible with 320NX), B747, Cap10, DR400, E300, Savage Cup, XCup.
 <br>
 Oct. 29: Compatible with Update 5/Patch 1.10.4. Dedicated volumetric taxi and landing lights for DA62, DA40NG, Icon A5.
