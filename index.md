@@ -4,11 +4,13 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-* [**Download the latest Uwa Light Mod Pack (Oct 29)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.08.zip)
+* [**Download the latest Uwa Light Mod Pack (Nov 10)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.09.zip)
 <br>
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
-**Aircraft Releases:**  
+**Aircraft Releases:** 
+Nov. 10:Compatible with Update 5/Patch 1.10.11.0. Added dedicated volumetric taxi and landing lights to default A320 (not compatible with 320NX), B747, Cap10, DR400, E300, Savage Cup, XCup.
+<br>
 Oct. 29: Compatible with Update 5/Patch 1.10.4. Dedicated volumetric taxi and landing lights for DA62, DA40NG, Icon A5.
 <br>
 Oct. 25: Dedicated volumetric taxi and landing lights for VL3, C152, C172.
