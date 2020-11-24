@@ -11,6 +11,7 @@ All updated aircraft files now available in one single package for easier downlo
 **Aircraft Releases:** 
 <br>
 Nov. 24: Compatible with Patch 1.11.6.0
+<br>
 Nov. 10:Compatible with Update 5/Patch 1.10.11.0. Added dedicated volumetric taxi and landing lights to default A320 (not compatible with 320NX), B747, Cap10, DR400, E300, Savage Cup, XCup.
 <br>
 Oct. 29: Compatible with Update 5/Patch 1.10.4. Dedicated volumetric taxi and landing lights for DA62, DA40NG, Icon A5.
