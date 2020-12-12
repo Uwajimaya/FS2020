@@ -10,6 +10,8 @@ All updated aircraft files now available in one single package for easier downlo
 
 **Aircraft Releases:** 
 <br>
+Cessna Longitude Mod by Dakfly ([on flightsim.to])(https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
+<br>
 Nov. 24: Compatible with Patch 1.11.6.0
 <br>
 Nov. 10:Compatible with Update 5/Patch 1.10.11.0. Added dedicated volumetric taxi and landing lights to default A320 (not compatible with 320NX), B747, Cap10, DR400, E300, Savage Cup, XCup.
