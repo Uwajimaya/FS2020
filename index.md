@@ -10,7 +10,7 @@ All updated aircraft files now available in one single package for easier downlo
 
 **Aircraft Releases:** 
 <br>
-Cessna Longitude Mod by Dakfly ([on flightsim.to])(https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
+Dec. 12: Cessna Longitude Mod by Dakfly ([on flightsim.to])(https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
 <br>
 Nov. 24: Compatible with Patch 1.11.6.0
 <br>
