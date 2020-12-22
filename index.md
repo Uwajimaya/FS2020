@@ -4,11 +4,13 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-* [**Download the latest Uwa Light Mod Pack (Nov 24)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.10.zip)
+* [**Download the latest Uwa Light Mod Pack (Dec 22)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.11.zip)
 <br>
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases:** 
+<br>
+Dec. 22: Compatible with Patch 1.12.13.0
 <br>
 Dec. 12: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
 <br>
@@ -59,10 +61,6 @@ Sept. 23: Icon A5 with LED lights & Cessna C152.
 <br>
 Sept. 20: Cessna 172 (G1000) with LED lights.
 <br> 
-![C172(G1000) External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_1.jpg)
-![C172(G1000) Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C172(G1000)_2.jpg)
-
-
 
 Sept. 18: Diamond DG 40 NG & DG62. All files compatible with patch 1.8.3.0!
 <br>
