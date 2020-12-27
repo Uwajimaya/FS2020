@@ -4,11 +4,13 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
-* [**Download the latest Uwa Light Mod Pack (Dec 22)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.11.zip)
+* [**Download the latest Uwa Light Mod Pack (Dec 27)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.12.zip)
 <br>
 * [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods
 
 **Aircraft Releases:** 
+<br>
+Dec. 27: Small fixes to electircal and other systems not included in my last update.
 <br>
 Dec. 22: Compatible with Patch 1.12.13.0
 <br>
