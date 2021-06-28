@@ -9,6 +9,7 @@ All updated aircraft files now available in one single package for easier downlo
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
 
 **Aircraft Releases:** 
+<br>
 Jun 28: Fixed 748 wing light
 <br>
 Feb 16: Updated King Air 350 beacons, light no longer bleeds into cabin (thanks to Harry @FBW); compatible with Patch 1.13.16.0
