@@ -10,7 +10,7 @@ All updated aircraft files now available in one single package for easier downlo
 
 **Aircraft Releases:** 
 <br>
-SEP 8: Updated XCub landing/pulse light; Replaced default lights on XCub Floats & Skis, C172(G1000) Floats & Skis
+Sep 8: Updated XCub landing/pulse light; Replaced default lights on XCub Floats & Skis, C172(G1000) Floats & Skis
 <br>
 Jun 28: Fixed 748 wing light
 <br>
