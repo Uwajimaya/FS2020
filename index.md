@@ -2,6 +2,10 @@ The lighting effects for many default aircraft are set too low partially because
 <br>In the meantime, I am using the features that do exists to create customized lighting effects for each individual aircraft - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 Post your comments or questions below, or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
+<head>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="uwajimaya" data-color="#FFDD00" data-emoji="🛩️"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</head>
+   
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br><br>
 * [**Download the latest Uwa Light Mod Pack (SEP 8)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.15.zip)
