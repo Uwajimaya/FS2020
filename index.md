@@ -5,9 +5,7 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br>
 
-<head>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="uwajimaya" data-color="#c0c0c0" data-emoji="✈️"  data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-</head>
+
    
 <br><br>
 * [**Download the latest Uwa Light Mod Pack (SEP 8)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.15.zip)
