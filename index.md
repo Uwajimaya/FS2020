@@ -14,76 +14,44 @@ All updated aircraft files now available in one single package for easier downlo
 
 **Aircraft Releases:** 
 <br>
-Sep 8: Updated XCub landing/pulse light; Replaced default lights on XCub Floats & Skis, C172(G1000) Floats & Skis
+Sep 8/21: Updated XCub landing/pulse light; Replaced default lights on XCub Floats & Skis, C172(G1000) Floats & Skis
 <br>
-Jun 28: Fixed 748 wing light
+Jun 28/21: Fixed 748 wing light
 <br>
-Feb 16: Updated King Air 350 beacons, light no longer bleeds into cabin (thanks to Harry @FBW); compatible with Patch 1.13.16.0
+Feb 16/21: Updated King Air 350 beacons, light no longer bleeds into cabin (thanks to Harry @FBW); compatible with Patch 1.13.16.0
 <br>
-Dec. 27: Small fixes to electircal and other systems not included in my last update.
+Dec. 27/20: Small fixes to electircal and other systems not included in my last update.
 <br>
-Dec. 12: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
-<br>
-Nov. 24: Compatible with Patch 1.11.6.0
-<br>
-Nov. 10:Compatible with Update 5/Patch 1.10.11.0. Added dedicated volumetric taxi and landing lights to default A320 (not compatible with 320NX), B747, Cap10, DR400, E300, Savage Cup, XCup.
-<br>
-Oct. 29: Compatible with Update 5/Patch 1.10.4. Dedicated volumetric taxi and landing lights for DA62, DA40NG, Icon A5.
-<br>
-Oct. 25: Dedicated volumetric taxi and landing lights for VL3, C152, C172.
-<br>
-Oct. 15: Dedicated volumetric taxi and landing lights for Bonanza G36, TBM, King Air, C208 and CJ4. You can see them in fog and clouds! 
+Dec. 12/20: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
+
+
 <br>
 ![C208 lightl](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_light.jpg)
 <br>
 
-Oct. 10: Boeing 747-8, VL-3, Extra 330, Savage Cub
-<br>
 ![B748 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/748_1.jpg)
 ![VL-3 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/JVL_1.jpg)
 ![E330 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/E330_1.jpg)
    
 <br>  
-Oct. 4: X Cub, Cap 10, DR400
-<br>
+
 ![XCub External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/XCub_1.jpg)
 ![Cap10 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Cap10_1.jpg)
 ![DR400 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DR400_1.jpg)
 ![DR400 Internal External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/DR400_2.jpg)
 
 <br>
-Sept. 27: Lens flare effects! A320 (new mod) and C208 (updated)
-<br> 
+
 ![A320 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_1.jpg)
 ![A320 Internal](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_2.jpg)
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_3.jpg)
 
-
 <br>
-Sept. 23: Icon A5 with LED lights & Cessna C152.
-<br> 
+
 ![IconA5 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_1.jpg)
 ![IconA5 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_2.jpg)
 ![Cessna 152 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C152_1.jpg)
 ![Cessna 152 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C152_2.jpg)
-
-
-<br>
-Sept. 20: Cessna 172 (G1000) with LED lights.
-<br> 
-
-Sept. 18: Diamond DG 40 NG & DG62. All files compatible with patch 1.8.3.0!
-<br>
-
-Sept. 15: C208 & Bonanza G36
-<br>
-For an an updated G36 flight model and other enhancements, including my lighting mod, visit [the G36 project](https://github.com/TheFrett/msfs_g36_project){:target="_blank"}.
-
-<br>
-Sept. 14: KingAir 350    
-Sept. 9: TBM 930 & Cessna CJ4 Citation
-
-
 
 
 Uwajimaya
