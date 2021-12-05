@@ -8,11 +8,13 @@ All updated aircraft files now available in one single package for easier downlo
 
    
 <br><br>
-* [**Download the latest Uwa Light Mod Pack (SEP 8)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.15.zip)
+* [**Download the latest Uwa Light Mod Pack (DEC 5/2021)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.16.zip)
 <br>
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
 
 **Aircraft Releases:** 
+<br>
+Dec 5/21: Added all versions of the PC6
 <br>
 Sep 8/21: Updated XCub landing/pulse light; Replaced default lights on XCub Floats & Skis, C172(G1000) Floats & Skis
 <br>
