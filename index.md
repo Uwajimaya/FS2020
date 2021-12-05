@@ -3,9 +3,8 @@ The lighting effects for many default aircraft are set too low partially because
 Post your comments or questions below, or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
 All updated aircraft files now available in one single package for easier download! Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
-
    
-<br><br>
+<br>
 * [**Download the latest Uwa Light Mod Pack (DEC 5/2021)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.16..zip)
 <br>
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
