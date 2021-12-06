@@ -43,7 +43,6 @@ Dec. 12/20: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim
 
 <br>
 
-![A320 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_1.jpg)
 ![A320 Internal](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_2.jpg)
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_3.jpg)
 
