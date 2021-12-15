@@ -9,6 +9,7 @@ All updated aircraft files now available in one single package for easier downlo
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
 
 **Aircraft Releases:** 
+<br>
 Dec 14/21: Added the F/A-18
 <br>
 Dec 5/21: Added all versions of the PC6
