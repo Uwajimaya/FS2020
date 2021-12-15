@@ -6,21 +6,17 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 <br>
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
 
-**Aircraft Releases:** 
+**Latest Releases:** 
 <br>
 Dec 14/21: Added the F/A-18
 <br>
 Dec 5/21: Added all versions of the PC6
+
+Supported community projects:
 <br>
-Sep 8/21: Updated XCub landing/pulse light; Replaced default lights on XCub Floats & Skis, C172(G1000) Floats & Skis
+[Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) 
 <br>
-Jun 28/21: Fixed 748 wing light
-<br>
-Feb 16/21: Updated King Air 350 beacons, light no longer bleeds into cabin (thanks to Harry @FBW); compatible with Patch 1.13.16.0
-<br>
-Dec. 27/20: Small fixes to electircal and other systems not included in my last update.
-<br>
-Dec. 12/20: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
+[Working Title CJ4] (https://www.workingtitle.aero/packages/cj4/)
 
 ![FA18_1](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_2.jpg)
 ![FA18_2](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_1.jpg)
