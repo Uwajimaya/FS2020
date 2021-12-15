@@ -27,7 +27,8 @@ Dec. 12/20: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim
 
 
 <br>
-![C208 lightl](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_light.jpg)
+![FA18_1](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_1.jpg)
+![FA18_2](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_2.jpg)
 <br>
 
 ![VL-3 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/JVL_1.jpg)
