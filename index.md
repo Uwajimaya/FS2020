@@ -4,7 +4,7 @@ Post your comments or questions below, or message me on [https://forums.flightsi
  
 <br>
 * [**Download the latest Uwa Light Mod Pack (DEC 14/2021)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.17.zip)
-Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
+<br>Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br>
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
 
