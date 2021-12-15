@@ -1,5 +1,4 @@
-The lighting effects for many default aircraft are set too low partially because the same effects have to work for many different aircraft. In addition, some of the lighting systems is broken/not implemented, Asobo is reportedly working on a new system. No ETA.
-<br>In the meantime, I am using the features that do exists to create customized lighting effects for each individual aircraft - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
+The FS2020 lighting effects for most default aircraft are too low or even incorrect because the same effects have to work for many different aircraft. My mod provides customized lighting for each individual aircraft - landing lights, taxi lights, strobe, nav lights, etc. to hopefully provide a more realistic and immersive experience. Thanks for stopping by and have fun!
 Post your comments or questions below, or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
  
