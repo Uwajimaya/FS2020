@@ -16,7 +16,7 @@ Supported community projects:
 <br>
 [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) 
 <br>
-[Working Title CJ4] (https://www.workingtitle.aero/packages/cj4/)
+[Working Title CJ4](https://www.workingtitle.aero/packages/cj4/)
 
 ![FA18_1](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_2.jpg)
 ![FA18_2](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_1.jpg)
