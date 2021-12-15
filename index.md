@@ -22,15 +22,12 @@ Dec. 27/20: Small fixes to electircal and other systems not included in my last 
 <br>
 Dec. 12/20: [Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) with updated external lights.
 
-<br>
-![PC6_lights](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/PC6_lights.jpg)
-
-
-<br>
 ![FA18_1](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_1.jpg)
 ![FA18_2](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_2.jpg)
 <br>
+![PC6_lights](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/PC6_lights.jpg)
 
+<br>
 ![VL-3 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/JVL_1.jpg)
 ![E330 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/E330_1.jpg)
    
