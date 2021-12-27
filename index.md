@@ -8,7 +8,7 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 
 **Latest Releases:** 
 <br>
-Dec26/21: Added the XN Cub
+Dec 26/21: Added the XN Cub
 <br>
 Dec 14/21: Added the F/A-18
 <br>
