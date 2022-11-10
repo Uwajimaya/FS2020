@@ -24,8 +24,11 @@ Supported community projects:
 <br>
 [Working Title CJ4](https://www.workingtitle.aero/packages/cj4/)
 
+<br>
+![787](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/787.jpg)
+![Baron](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Baron.jpg)
+
 ![FA18_1](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_2.jpg)
-![FA18_2](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/FA18_1.jpg)
 <br>
 
 <br>
@@ -48,11 +51,6 @@ Supported community projects:
 ![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_3.jpg)
 
 <br>
-
-![IconA5 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_1.jpg)
-![IconA5 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/IconA5_2.jpg)
-![Cessna 152 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C152_1.jpg)
-![Cessna 152 Cockpit](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C152_2.jpg)
 
 
 Uwajimaya
