@@ -47,11 +47,6 @@ Supported community projects:
 
 <br>
 
-![A320 Internal](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/A320_2.jpg)
-![C208 External](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/C208_3.jpg)
-
-<br>
-
 
 Uwajimaya
 
