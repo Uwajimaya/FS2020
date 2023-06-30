@@ -10,8 +10,6 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 <br>
 Added Cessna Longitude, updated 747 and 787 for version FS2020 v1.33.8.0. 
 <br>
-Nov 9/22: SU10 unlocked the "premium" aircraft! Added the C152 Aerobat, C172 Classic, Baron G58, Cirrus SR22, B787
-<br>
 
 Supported community projects:
 <br>
