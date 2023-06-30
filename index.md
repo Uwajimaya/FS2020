@@ -11,12 +11,6 @@ Post your comments or questions below, or message me on [https://forums.flightsi
 Added Cessna Longitude, updated 747 and 787 for version FS2020 v1.33.8.0. 
 <br>
 
-Supported community projects:
-<br>
-[Cessna Longitude Mod by Dakfly (on flightsim.to)](https://flightsim.to/file/3655/asobo-cessna-citation-longitude-flight-dynamics-modifications-project-version-1-0) 
-<br>
-[Working Title CJ4](https://www.workingtitle.aero/packages/cj4/)
-
 <br>
 ![787](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/787.jpg)
 ![Baron](https://github.com/Uwajimaya/FS2020/raw/gh-pages/images/Baron.jpg)
