@@ -1,14 +1,14 @@
 The FS2020 lighting effects for most default aircraft are too low or even incorrect because the same effects have to work for many different aircraft. My mod provides customized and more realistic landing lights, taxi lights, strobes, nav lights, etc. for each individual aircraft. Thanks for stopping by and have fun!
 Post your comments or questions below, or message me on [https://forums.flightsimulator.com/](https://forums.flightsimulator.com/).
 
-* [**Download the latest Uwa Light Mod Pack (June 29, 2023)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.22.zip)
+* [**Download the latest Uwa Light Mod Pack (December 26, 2023)**](https://github.com/Uwajimaya/FS2020/raw/master/Uwa%20light%20mod%20pack%20v1.23.zip)
 <br>Please delete any existing "Uwa light mods" folder(s) before installing the new pack!
 <br>
 <!--* [Read the FAQ](https://uwajimaya.github.io/FS2020/FAQ.html) to learn more about custom options and avoiding conflicts with other mods-->
 
 **Latest Releases:** 
 <br>
-Added Cessna Longitude, updated 747 and 787 for version FS2020 v1.33.8.0. 
+Updated for FS2020 SU14 (e.g. my mod no longer conflicts with the 787 EFB)
 <br>
 
 <br>
